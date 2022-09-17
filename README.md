@@ -1,6 +1,6 @@
 <a href="https://colab.research.google.com/github/stevensiadaty/musicformer/blob/main/notebooks/ColabGenerateMusicWithAI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-# Generate music, given neural net
+# Generate music, given neural net (Google Colab Version)
 ## Piano, single track
 ### Based on Google 2018 Music Transformer NN
 
